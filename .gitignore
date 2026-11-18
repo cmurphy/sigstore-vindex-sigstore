@@ -1,0 +1,10 @@
+# Built binaries
+bin/
+dist/
+vindexd
+vindexd_debug
+
+# Go test and coverage artifacts
+*.test
+*.out
+*.prof
